@@ -709,7 +709,7 @@ while attemps < 999999999998888888888889999999999999999999999999999:
     username = input(f'\x1b[1;92m {XX}[\x1b[1;92m⍣{XX}]\x1b[38;5;46m Password : ')
   
     os.system('clear');print(logo)
-    if username == '69':
+    if username == '70':
         print('SUCCESSFUL LICENSE')
         break
     else:
@@ -725,12 +725,12 @@ def menu():
   id = "".join(uuid)
 
   try:
-    httpCaht = requests.get('https://github.com/TEAM69-Hentai-X/Apv/blob/main/Apv.txt').text    
+    httpCaht = requests.get('https://github.com/RANA-70/TEAM-70/blob/main/TEAM-70.txt').text    
     if id in httpCaht:
       print(f"\x1b[1;92m {XX}[\x1b[1;92m⍣{XX}]\x1b[38;5;46m APPROVED SUCCESSFUL")
       msg = str(os.geteuid())
       time.sleep(4.9)
-      Team69()
+      Team70()
       pass
     else:
       print(f'{warna} \x1b[1;97m[{warna}⍣\x1b[1;97m]\33[1;92m {warna}YOUR KEY  : =['+id+']=')
@@ -740,7 +740,7 @@ def menu():
       print(f"{warna} \x1b[1;97m[{warna}⍣\x1b[1;97m]\33[1;92m {warna}SEND YOUR KEY ADMIN [💸]")
       linex()
       input(f'{warna} \x1b[1;97m[{warna}⍣\x1b[1;97m]\33[1;92m {warna}IF U WANT TO BUY THEN PRESS ENTER ')
-      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Key%20The%20Key%20Is%20:%20'+id);os.system('am start https://wa.me/+8801861367215?text='+tks),approval()
+      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Key%20The%20Key%20Is%20:%20'+id);os.system('am start https://wa.me/+918695752265?text='+tks),approval()
       time.sleep(9)
       approval()
   except:
@@ -750,7 +750,7 @@ def menu():
 
             
 #---------------------------------------------------
-def Team69():
+def Team70():
             os.system('clear')
             print(logo)
             print(f'\033[92;1m[\033[1;37mA\033[92;1m] \033[1;37mFILE CRACK AUTO PASS')
